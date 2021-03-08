@@ -1,4 +1,4 @@
-# Predicting_Bike-Sharing_Patterns
+# Predicting Bike-Sharing Patterns
 This is the first project of the Udacity Deep Learning Nanodegree Program.  
 
 ## Problem statement
